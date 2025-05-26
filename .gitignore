@@ -1,0 +1,6 @@
+.DS_Store
+@eaDir
+screenshots/@eaDir
+@eaDir/
+**/@eaDir/
+.DS_Store/
